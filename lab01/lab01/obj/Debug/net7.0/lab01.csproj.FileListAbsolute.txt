@@ -1,0 +1,15 @@
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\bin\Debug\net7.0\lab01.exe
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\bin\Debug\net7.0\lab01.deps.json
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\bin\Debug\net7.0\lab01.runtimeconfig.json
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\bin\Debug\net7.0\lab01.dll
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\bin\Debug\net7.0\lab01.pdb
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.csproj.AssemblyReference.cache
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.AssemblyInfoInputs.cache
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.AssemblyInfo.cs
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.csproj.CoreCompileInputs.cache
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.dll
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\refint\lab01.dll
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.pdb
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\lab01.genruntimeconfig.cache
+E:\DotNet\Lab01-NumbersGame\lab01\lab01\obj\Debug\net7.0\ref\lab01.dll
